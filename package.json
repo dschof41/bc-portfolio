@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-contentful-portfolio",
-  "description": "Portfolio theme for GatsbyJS",
+  "name": "bc-portfolio",
+  "description": "Graphic design portfolio for Bryce Carlson",
   "version": "1.0.0",
-  "author": "Wojciech Kocjan <wojciech@kocjan.net>",
+  "author": "Dan Schofer",
   "dependencies": {
     "autoprefixer": "^9.7.6",
     "classnames": "^2.2.6",
